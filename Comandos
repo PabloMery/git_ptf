@@ -1,0 +1,12 @@
+git init
+git add .
+git commit -m
+ligar con repositorio
+git push -u origin master
+
+
+----
+Repetir para agregar el paso 
+2
+3
+5
